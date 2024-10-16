@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Owen-Reynolds
-- 🌱 I’m currently learning Python, Java, and how to apply my knowledge of these to the workplace.
+- 🌱 I’m currently working on a clothing website, personal portfolio, and leetcode problems.
 - 💞️ I’m looking to collaborate on any project that strikes me with interest.
 - 📫 Reach me by Email: oreynold@ashland.edu
 - ⚡ Fun fact: I am always looking forward to learn and master new things!
