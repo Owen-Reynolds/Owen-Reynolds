@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Owen-Reynolds
-- 🌱 I’m currently working on a clothing website, personal portfolio, and leetcode problems.
+- 🌱 I’m currently working on learing React JS and more about Front-End Development.
 - 💞️ I’m looking to collaborate on any project that strikes me with interest.
 - 📫 Reach me by Email: oreynold@ashland.edu
 - ⚡ Fun fact: I am always looking forward to learn and master new things!
