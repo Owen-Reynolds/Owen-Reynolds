@@ -24,7 +24,9 @@ video games, and being outside.
 
 <img align="left" alt="Java" width="40px" styles="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-###Stats
+<br>
+
+<h3>Stats</h3>
 
 ![Owen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Owen-Reynolds&show_icons=true&theme=github_dark)
           
