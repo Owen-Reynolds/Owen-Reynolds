@@ -5,9 +5,9 @@
 ### About Me
 
 Hello, I am a Sophmore Computer Science Major at Ashland University. I am currently learning
-Object Oriented Programming with Java and Front End Programming with React JS. Through my studies
-I have learned that hard-work, determination, and consistency is the forumla for sucess and I 
-hope to one day bring this traits with me to the workplace. Outside of coding, I enjoy basketball,
+Object-oriented programming with Java and front-end programming with React JS. Through my studies
+I have learned that hard work, determination, and consistency are the formula for success, and I
+hope to one day bring these traits to the workplace. Outside of coding, I enjoy basketball,
 video games, and being outside.
 
 ### Tech Stack
